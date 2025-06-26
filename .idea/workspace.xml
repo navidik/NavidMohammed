@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="381fa420-b7a2-44f9-8f5b-baeb6a752869" name="Changes" comment="cv changed">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="381fa420-b7a2-44f9-8f5b-baeb6a752869" name="Changes" comment="cv href added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +68,7 @@
       <workItem from="1750863581077" duration="4732000" />
       <workItem from="1750875575219" duration="3945000" />
       <workItem from="1750926194120" duration="528000" />
-      <workItem from="1750928769645" duration="892000" />
+      <workItem from="1750928769645" duration="1487000" />
     </task>
     <task id="LOCAL-00001" summary="cv changed">
       <option name="closed" value="true" />
@@ -80,7 +78,23 @@
       <option name="project" value="LOCAL" />
       <updated>1750929182835</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="cv changed">
+      <option name="closed" value="true" />
+      <created>1750929830589</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1750929830589</updated>
+    </task>
+    <task id="LOCAL-00003" summary="cv href added">
+      <option name="closed" value="true" />
+      <created>1750929933771</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1750929933771</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,6 +125,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="cv changed" />
-    <option name="LAST_COMMIT_MESSAGE" value="cv changed" />
+    <MESSAGE value="cv href added" />
+    <option name="LAST_COMMIT_MESSAGE" value="cv href added" />
   </component>
 </project>
