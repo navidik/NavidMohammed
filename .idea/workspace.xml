@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="381fa420-b7a2-44f9-8f5b-baeb6a752869" name="Changes" comment="cv href added" />
+    <list default="true" id="381fa420-b7a2-44f9-8f5b-baeb6a752869" name="Changes" comment="cv href link changed" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +68,7 @@
       <workItem from="1750863581077" duration="4732000" />
       <workItem from="1750875575219" duration="3945000" />
       <workItem from="1750926194120" duration="528000" />
-      <workItem from="1750928769645" duration="1487000" />
+      <workItem from="1750928769645" duration="1937000" />
     </task>
     <task id="LOCAL-00001" summary="cv changed">
       <option name="closed" value="true" />
@@ -94,7 +94,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750929933771</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="cv href link changed">
+      <option name="closed" value="true" />
+      <created>1750930377163</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1750930377163</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,6 +134,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="cv changed" />
     <MESSAGE value="cv href added" />
-    <option name="LAST_COMMIT_MESSAGE" value="cv href added" />
+    <MESSAGE value="cv href link changed" />
+    <option name="LAST_COMMIT_MESSAGE" value="cv href link changed" />
   </component>
 </project>
